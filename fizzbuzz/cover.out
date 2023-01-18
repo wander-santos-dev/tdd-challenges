@@ -1,0 +1,10 @@
+mode: set
+github.com/wander-santos-dev/tdd-challenges/fizzbuzz/fizzbuzz.go:8.13,13.30 4 0
+github.com/wander-santos-dev/tdd-challenges/fizzbuzz/fizzbuzz.go:13.30,15.3 1 0
+github.com/wander-santos-dev/tdd-challenges/fizzbuzz/fizzbuzz.go:18.29,22.14 3 1
+github.com/wander-santos-dev/tdd-challenges/fizzbuzz/fizzbuzz.go:26.2,26.14 1 1
+github.com/wander-santos-dev/tdd-challenges/fizzbuzz/fizzbuzz.go:30.2,30.22 1 1
+github.com/wander-santos-dev/tdd-challenges/fizzbuzz/fizzbuzz.go:34.2,34.15 1 1
+github.com/wander-santos-dev/tdd-challenges/fizzbuzz/fizzbuzz.go:22.14,24.3 1 1
+github.com/wander-santos-dev/tdd-challenges/fizzbuzz/fizzbuzz.go:26.14,28.3 1 1
+github.com/wander-santos-dev/tdd-challenges/fizzbuzz/fizzbuzz.go:30.22,32.3 1 0
